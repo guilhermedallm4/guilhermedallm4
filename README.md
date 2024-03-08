@@ -3,13 +3,12 @@
 👨‍🎓 Graduating in Computer Science in **[Universidade Federal de Pelotas](https://portal.ufpel.edu.br/)** 
 
 💚 Support analyst at **[Aliare ](https://www.aliare.co/)**
-
 ### About me :eyes:
 
 - :dart: Back-end;
 - :e-mail: Any doubt: **[gdlima@inf.ufpel.edu.br](gdlima@inf.ufpel.edu.br)**
 
- <div>
+<div>
   <a href="https://github.com/guilhermedallm4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermedallm4&show_icons=true&theme=dark&include_all_commits=true&count_private=truex"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedallm4&layout=compact&langs_count=7&theme=dark"/>
@@ -45,7 +44,6 @@
   ## Contacts:
  
 <div> 
-  <a href="https://www.instagram.com/guilhermedallm4/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gdlima@inf.ufpel.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-dallmann-lima-b1157020b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
