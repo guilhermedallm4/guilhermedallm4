@@ -4,7 +4,7 @@
 
 👨‍🎓 Master's student in Computing at the **[Universidade Federal de Pelotas](https://wp.ufpel.edu.br/computacao/ppgc/)**
 
-💚 N2 Support analyst at **[Aliare ](https://www.aliare.co/)**
+💚 Data Analyst at **[Aliare ](https://www.aliare.co/)**
 ### About me :eyes:
 
 - :dart: Back-end;
