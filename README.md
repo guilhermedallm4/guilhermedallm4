@@ -1,8 +1,8 @@
 ## Hi! I'm Guilherme D. Lima 👋
 
-👨‍🎓 Bsc in **[Universidade Federal de Pelotas](https://wp.ufpel.edu.br/computacao/ciencia-da-computacao/)** 
+👨‍🎓 Bsc. in **[Universidade Federal de Pelotas](https://wp.ufpel.edu.br/computacao/ciencia-da-computacao/)** 
 
-👨‍🎓 Msc in Computing at the **[Universidade Federal de Pelotas](https://wp.ufpel.edu.br/computacao/ppgc/)**
+👨‍🎓 Msc. in Computing at the **[Universidade Federal de Pelotas](https://wp.ufpel.edu.br/computacao/ppgc/)**
 
 💚 Data Analyst at **[Aliare ](https://www.aliare.co/)**
 ### About me :eyes:
