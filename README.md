@@ -4,7 +4,8 @@
 
 👨‍🎓 Msc. in Computing at the **[Universidade Federal de Pelotas](https://wp.ufpel.edu.br/computacao/ppgc/)**
 
-💚 Data Analyst at **[Aliare ](https://www.aliare.co/)**
+AI Engineer
+
 ### About me :eyes:
 
 - :dart: Back-end;
