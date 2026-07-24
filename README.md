@@ -4,6 +4,8 @@
 
 👨‍🎓 Msc. in Computing at the **[Universidade Federal de Pelotas](https://wp.ufpel.edu.br/computacao/ppgc/)**
 
+👨‍🎓 Phd. in Computing at the **[Universidade Federal de Pelotas](https://wp.ufpel.edu.br/computacao/ppgc/)**
+
 AI Engineer
 
 ### About me :eyes:
