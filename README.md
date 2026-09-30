@@ -14,20 +14,20 @@ Building LLM-powered systems in industry and researching NLP & Quantum ML in aca
 
 ## 🧠 About me
 
-- 🤖 **AI Engineer** with 4+ years in Software & Machine Learning Engineering, currently focused on **LLM applications**: multi-agent systems, text-to-SQL, RAG and conversational AI
-- 🎓 **PhD student in Computing** at [UFPel](https://wp.ufpel.edu.br/computacao/ppgc/) · MSc in Computing (2026) · BSc in Computer Science (2024)
-- 🔬 Researcher in **NLP for Brazilian Portuguese**: language models, benchmarking and dependency parsing
-- ⚛️ Exploring **Quantum Machine Learning**: quantum reservoir computing and quantum data encoding for QNNs
-- ✍️ Author of **HubParser**, a dependency parsing approach for Brazilian Portuguese (Master's research)
-- 📫 Reach me at **[gdlima@inf.ufpel.edu.br](mailto:gdlima@inf.ufpel.edu.br)**
+- **AI Engineer** with 4+ years in Software & Machine Learning Engineering, currently focused on **LLM applications**: multi-agent systems, text-to-SQL, RAG and conversational AI
+- **PhD student in Computing** at [UFPel](https://wp.ufpel.edu.br/computacao/ppgc/) · MSc in Computing (2026) · BSc in Computer Science (2024)
+- Researcher in **NLP for Brazilian Portuguese**: language models, benchmarking and dependency parsing
+- Exploring **Quantum Machine Learning**: quantum reservoir computing and quantum data encoding for QNNs
+- Author of **HubParser**, a dependency parsing approach for Brazilian Portuguese (Master's research)
+- Reach me at **[gdlima@inf.ufpel.edu.br](mailto:gdlima@inf.ufpel.edu.br)**
 
-## 🚀 What I build
+## What I build
 
-| 🤖 LLM & Agent Systems | 🔎 Applied NLP | ⚛️ Quantum ML Research |
+| LLM & Agent Systems | Applied NLP | Quantum ML Research |
 | :--- | :--- | :--- |
 | Multi-agent orchestration, text-to-SQL pipelines, RAG and conversational AI (WhatsApp bots and beyond) | Language models and benchmarks for Portuguese, dependency parsing, model evaluation | Quantum reservoir computing experiments and systematic reviews on quantum data encoding |
 
-## 🛠️ Tech stack
+## Tech stack
 
 **AI & LLM Engineering**
 
@@ -40,13 +40,6 @@ Building LLM-powered systems in industry and researching NLP & Quantum ML in aca
 **Data & Infrastructure**
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-
-## 📊 GitHub stats
-
-<div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=guilhermedallm4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedallm4&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</div>
 
 ---
 
